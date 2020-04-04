@@ -2,7 +2,8 @@
 
 A better look at your GitHub Profile! With charts!
 
-![demo]()
+### Preview:
+![](./static/og.png)
 
 Built with:
 
